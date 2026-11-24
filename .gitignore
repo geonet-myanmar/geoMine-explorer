@@ -1,0 +1,23 @@
+# Visual Studio cache & temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs & binaries
+bin/
+obj/
+*.pdb
+*.zip
+*.tar.gz
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+
+# Windows OS files
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/

@@ -1,0 +1,36 @@
+HoleId,From,To,RockCode,Description
+DDH01,0.0,18.5,OXD,Ferruginous soil and oxidized capping gossan
+DDH01,18.5,54.0,AND,Porphyritic andesite with propylitic alteration
+DDH01,54.0,82.5,POR,Quartz-feldspar porphyry with stockwork quartz
+DDH01,82.5,102.0,QVN,Massive quartz vein with chalcopyrite and native gold
+DDH01,102.0,145.0,BRX,Hydrothermal mineralized breccia with tourmaline matrix
+DDH01,145.0,180.0,BAS,Fine-grained volcanic basalt footwall
+DDH02,0.0,15.0,OXD,Oxidized saprolite and weathered cap
+DDH02,15.0,68.0,AND,Unaltered to weakly sericitized andesite
+DDH02,68.0,95.0,POR,Quartz-feldspar porphyry dyke with disseminated pyrite
+DDH02,95.0,128.0,QVN,High-grade auriferous quartz-sulfide vein system
+DDH02,128.0,165.0,SKN,Garnet-pyroxene skarn with retrograde epidote
+DDH02,165.0,200.0,BAS,Amygdaloidal basalt host rock
+DDH03,0.0,12.0,OXD,Limonitic clay and gravel overburden
+DDH03,12.0,58.0,AND,Andesite flow breccia
+DDH03,58.0,92.0,POR,Hydrothermally altered porphyry with chalcopyrite
+DDH03,92.0,114.0,QVN,Quartz-carbonate vein with visible gold specks
+DDH03,114.0,175.0,BAS,Basalt flows with chlorite-carbonate alteration
+DDH04,0.0,22.0,OXD,Ferruginous gossanous clay cap
+DDH04,22.0,75.0,AND,Porphyritic andesite host
+DDH04,75.0,110.0,POR,Potassic-altered quartz monzonite porphyry
+DDH04,110.0,140.0,BRX,Hydrothermal explosion breccia with matrix sulfides
+DDH04,140.0,178.0,QVN,Sheeted quartz vein swarm
+DDH04,178.0,210.0,BAS,Basalt basement unit
+DDH05,0.0,16.0,OXD,Weathered saprolite
+DDH05,16.0,62.0,AND,Andesite flow unit
+DDH05,62.0,98.0,POR,Quartz-feldspar porphyry with chalcopyrite veinlets
+DDH05,98.0,125.0,QVN,High-grade Au quartz vein
+DDH05,125.0,158.0,SKN,Magnetite-actinolite skarn
+DDH05,158.0,190.0,BAS,Basalt basement
+DDH06,0.0,20.0,OXD,Gravel cap and oxide zone
+DDH06,20.0,80.0,AND,Porphyritic andesite
+DDH06,80.0,118.0,POR,Silicified porphyry intruding volcanics
+DDH06,118.0,152.0,BRX,Sulfide-matrix breccia pipe
+DDH06,152.0,185.0,QVN,Quartz-veined contact zone
+DDH06,185.0,220.0,BAS,Basalt volcanic sequence
